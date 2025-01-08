@@ -1,7 +1,6 @@
-![Web Developer](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1736336494~exp=1736340094~hmac=28fa15da540b4520ea24d5ad7c66aa32aae11e1b1a2549e01c3df2110675aeae&w=1380)
 ### Hi there 👋, I'm Kausar Ahammed
 #### Web Developer
-
+![Web Developer](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1736336494~exp=1736340094~hmac=28fa15da540b4520ea24d5ad7c66aa32aae11e1b1a2549e01c3df2110675aeae&w=1380)
 
 I'm a Front End Developer with a focus on creating responsive, dynamic, and user-friendly web applications. I enjoy turning ideas into visually appealing and functional websites, using the latest web technologies such as HTML, CSS, JavaScript, React, and Tailwind CSS.
 
@@ -21,11 +20,11 @@ Skills:  REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/codeWithKausar43)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/codeWithKausar43)](https://github.com/anuraghazra/github-readme-stats)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/codeWithKausar43&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/codeWithKausar43/contributions?format=svg&private=true)  
+![Vaunt Badge] 
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/codeWithKausar43)  
 
