@@ -1,4 +1,6 @@
-![Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQH9LTiCpiMBRw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736418036441?e=1742428800&v=beta&t=qaFSkl378hJz3x-LPT2o8IUhk7v_hOyRHKbxFxaq3BY "Frontend Developer")
+<div id="header" align="center">
+    <img src="github.png" alt="Banner Image">
+</div>
 
 <h1 align="center">Hi 👋, I'm Kausar Ahammed</h1>
 <h3 align="center">Hello! 👋 I am a passionate frontend developer from Bangladesh with a keen eye for design and detail. My journey in web development revolves around creating intuitive, user-friendly interfaces that deliver exceptional experiences.</h3>
