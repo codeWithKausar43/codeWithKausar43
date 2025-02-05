@@ -60,7 +60,7 @@
 ---
 
 
-## 📌 Pinned Repositories
+## 📌 Pinned Projects
 ### [🎬 Movie-Portal](https://github.com/yourgithubprofile/movie-portal)
 - 🎥 A dynamic movie portal built with React.js.
 - 🌐 [Live Demo](https://movie-portal-3fbfe.web.app/)
