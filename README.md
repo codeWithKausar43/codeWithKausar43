@@ -63,18 +63,14 @@
 ## 📌 Pinned Repositories
 ### [🎬 Movie-Portal](https://github.com/yourgithubprofile/movie-portal)
 - 🎥 A dynamic movie portal built with React.js.
-- 🌐 [Live Demo](https://your-live-demo.com)
-- 🛠 Technologies: React.js, Tailwind CSS, Firebase
+- 🌐 [Live Demo](https://movie-portal-3fbfe.web.app/)
+- 🛠 Technologies: React.js, Tailwind CSS, Firebase,Node.js, Express.js, MongoDB 
 
 ### [🏠 Hostel Management System](https://github.com/yourgithubprofile/hostel-management)
 - 🏢 A MERN stack hostel management system for students.
-- 🌐 [Live Demo](https://your-live-demo.com)
-- 🛠 Technologies: React.js, Node.js, Express.js, MongoDB
+- 🌐 [Live Demo](https://hostel-management-4286f.web.app/)
+- 🛠 Technologies: React.js,Tailwind CSS,Firebase, Node.js, Express.js, MongoDB 
 
-### [🌿 Eco-Adventure](https://github.com/yourgithubprofile/eco-adventure)
-- 🌍 An adventure experience website with eco-friendly features.
-- 🌐 [Live Demo](https://your-live-demo.com)
-- 🛠 Technologies: Next.js, Tailwind CSS, Firebase
 
 ---
 
