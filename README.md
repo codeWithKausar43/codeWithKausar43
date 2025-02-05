@@ -38,11 +38,18 @@
 ---
 
 ### 🔗 Connect With Me
-<div className="flex border">
- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/codeWithKausar43)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-kausar3)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdkausar.ahammed.925)  
+<div className="flex border space-x-2">
+  <a href="https://github.com/codeWithKausar43" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-kausar3" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mdkausar.ahammed.925" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
 </div>
+
  
 ---
 
