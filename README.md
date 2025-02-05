@@ -1,6 +1,3 @@
-# Hi, I'm Naptu! 🚀
-
-## Full Stack Developer | Passionate Web Enthusiast
 
 <div id="header" align="center">
     <img src="github.png" alt="Banner Image">
