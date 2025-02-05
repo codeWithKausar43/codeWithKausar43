@@ -2,7 +2,10 @@
 
 ## Full Stack Developer | Passionate Web Enthusiast
 
-![Banner Image](https://your-image-url.com)
+<div id="header" align="center">
+    <img src="github.png" alt="Banner Image">
+</div>
+
 
 ### 🌟 About Me
 - 🎯 Passionate about building efficient and user-friendly web applications.
