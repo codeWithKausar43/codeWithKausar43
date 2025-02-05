@@ -35,6 +35,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
+<div className="flex space-x-2">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+</div>
+
+
+
 ---
 
 ### 🔗 Connect With Me
@@ -57,7 +66,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithkausar43&show_icons=true&locale=en&layout=compact&theme=radical" alt="codewithkausar43" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithkausar43&show_icons=true&locale=en&theme=radical" alt="codewithkausar43" /></p>
----
+
 
 
 ## 📌 Pinned Projects
