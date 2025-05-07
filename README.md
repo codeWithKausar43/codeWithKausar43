@@ -1,7 +1,9 @@
 <div id="header" align="center">
     <img src="github.png" alt="Banner Image">
 </div>
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&width=400&lines=Full+Stack+Web+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
+  </p>
 
 ### 🌟 About Me
 - 🎯 Passionate about building efficient and user-friendly web applications.
